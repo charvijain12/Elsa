@@ -6,11 +6,11 @@ Elsa is a Python-based relaxation bot designed to assist in improving mental hea
 
 ## Features 🌟
 
-- **Greeting:** Elsa greets the user based on the time of day and introduces itself.
-- **Stress Keyword Detection:** Elsa can detect stress-related keywords in user input.
-- **Relaxation Techniques:** The bot suggests various relaxation techniques to help users cope with stress.
-- **Speech Interaction:** Users can interact with Elsa through speech, and the bot responds accordingly.
-- **Dynamic Responses:** Elsa provides dynamic responses based on user input and stress detection.
+- **Greeting:** Elsa greets the user based on the time of day and introduces itself. 🌅
+- **Stress Keyword Detection:** Elsa can detect stress-related keywords in user input. 🚨
+- **Relaxation Techniques:** The bot suggests various relaxation techniques to help users cope with stress. 🧘
+- **Speech Interaction:** Users can interact with Elsa through speech, and the bot responds accordingly. 🗣️
+- **Dynamic Responses:** Elsa provides dynamic responses based on user input and stress detection. 🔄
 
 ## How to Use 📋
 
