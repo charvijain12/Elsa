@@ -1,2 +1,1 @@
-# Elsa
-Relaxation Chatbot 
+# Elsa - Relaxation Chatbot 
