@@ -1,10 +1,10 @@
-# Elsa - Relaxation Bot to Improve Mental Health
+# Elsa - Relaxation Bot to Improve Mental Health 🌈
 
-## Introduction
+## Introduction 🚀
 
-Elsa is a Python-based relaxation bot designed to assist in improving mental health. Created by Charvi Jain, this bot offers a range of relaxation techniques and provides support for users going through stressful times. Elsa uses speech recognition and synthesis to engage in conversations with users, offering tips and guidance for relaxation.
+Elsa is a Python-based relaxation bot designed to assist in improving mental health. This bot offers a range of relaxation techniques and provides support for users going through stressful times. Elsa uses speech recognition and synthesis to engage in conversations with users, offering tips and guidance for relaxation.
 
-## Features
+## Features 🌟
 
 - **Greeting:** Elsa greets the user based on the time of day and introduces itself.
 - **Stress Keyword Detection:** Elsa can detect stress-related keywords in user input.
@@ -12,7 +12,7 @@ Elsa is a Python-based relaxation bot designed to assist in improving mental hea
 - **Speech Interaction:** Users can interact with Elsa through speech, and the bot responds accordingly.
 - **Dynamic Responses:** Elsa provides dynamic responses based on user input and stress detection.
 
-## How to Use
+## How to Use 📋
 
 1. **Installation:**
    - Clone the repository:
@@ -36,18 +36,19 @@ Elsa is a Python-based relaxation bot designed to assist in improving mental hea
 5. **Exit the Bot:**
    - Say "exit" or "bye" to end the conversation with Elsa.
 
-## Stress Keywords
+## Stress Keywords 🚨
 
 Elsa identifies stress-related keywords by loading them from a file. Users can customize the list by modifying the `stress_keywords.txt` file.
 
-## Relaxation Techniques
+## Relaxation Techniques 🧘
 
 Elsa offers a variety of relaxation techniques, including deep breathing, guided imagery, meditation, and more. Users can choose the technique that suits them best.
 
-## Contributing
+## Contributing 🤝
 
-Feel free to contribute to the project by creating new relaxation techniques, improving speech recognition, or enhancing the overall user experience. 
+Feel free to contribute to the project by creating new relaxation techniques, improving speech recognition, or enhancing the overall user experience.
 
-## License
+## License 📄
 
-This project is licensed under the [MIT License]([LICENSE.md](https://github.com/charvijain12/Elsa/blob/main/LICENSE)https://github.com/charvijain12/Elsa/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/charvijain12/Elsa/blob/main/LICENSE).
+
