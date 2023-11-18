@@ -51,4 +51,3 @@ Feel free to contribute to the project by creating new relaxation techniques, im
 ## License 📄
 
 This project is licensed under the [MIT License](https://github.com/charvijain12/Elsa/blob/main/LICENSE).
-
